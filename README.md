@@ -33,7 +33,9 @@ This project is part of **Mobile Communication and Computing (P) – IT3133**, d
    cd GalleryGo
 
 2.**Install Dependencies:**
+```bash
 npm install
 
 3.**Run the App:**
+```bash
 npm start
