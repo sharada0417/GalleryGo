@@ -31,11 +31,13 @@ This project is part of **Mobile Communication and Computing (P) – IT3133**, d
    ```bash
    git clone https://github.com/your-repository-link.git
    cd GalleryGo
+   ````````
 
-2.**Install Dependencies:**
+2.**Install Dependencies**:
 ```bash
 npm install
+``````
 
-3.**Run the App:**
+3.**Run the App**:
 ```bash
 npm start
