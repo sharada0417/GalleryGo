@@ -13,7 +13,8 @@ This project is part of **Mobile Communication and Computing (P) – IT3133**, d
 
 ### Home Screen  
 **Upload Photos Directly**  
-  ![photo_2025-01-05_00-44-14](https://github.com/user-attachments/assets/3375af55-99d8-4060-a41e-af6f849b0d4a)
+<img src="![photo_2025-01-05_00-44-14](https://github.com/user-attachments/assets/3375af55-99d8-4060-a41e-af6f849b0d4a)" alt="Alt Text" width="300" height="200">
+  
 
 ## Project Structure  
 ```
