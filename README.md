@@ -29,15 +29,17 @@ This project is part of **Mobile Communication and Computing (P) – IT3133**, d
 
 1. **Clone the Repository**:  
    ```bash
-  https://github.com/sharada0417/GalleryGo.git
+   git clone https://github.com/your-repository-link.git
    cd GalleryGo
-   ````````
+
+ 
 
 2.**Install Dependencies**:
-```bash
+```
 npm install
-``````
+```
 
 3.**Run the App**:
-```bash
+```
 npm start
+```
