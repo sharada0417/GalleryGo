@@ -29,7 +29,7 @@ This project is part of **Mobile Communication and Computing (P) – IT3133**, d
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/sharada0417/GalleryGo.git
    cd GalleryGo
 
  
